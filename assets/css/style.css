@@ -1,0 +1,11 @@
+.name {
+    width: 120px;
+    height: 100px;
+    padding: 20px;
+    border: medium groove;
+    background-color: #4aaaa5;
+    position: relative;
+    margin: 0px;
+    margin-left: 250px;
+    color: white;
+}
