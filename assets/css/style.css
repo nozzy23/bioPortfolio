@@ -20,6 +20,7 @@ ul {
     padding: 0;
     margin: 0;
     overflow: auto;
+    float: right;
 }
 
 li {
@@ -28,14 +29,20 @@ li {
     background: green;
     margin: 2.5%;
 }
-
-.linkorg{
-    display: inline-block;    
-    background-color: brown;
-    float: right;
-    height: 50px;
-    width: 50px;
-}
 .body{
     margin: 0px;
+}
+img{
+    float: left;
+    border-right: 10px;
+    padding: 10px;
+}
+.container{
+    background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/triangle-mosaic.png");
+    height: 960px;
+    
+}
+.content{
+    background-color: #ffffff;
+    border: #dddddd solid 2px;
 }
