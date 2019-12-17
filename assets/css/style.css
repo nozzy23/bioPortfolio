@@ -1,23 +1,40 @@
 .bgcolor{
-    background-color: grey;
     width: auto; 
     border-bottom: black solid 2px;   
 }
 
 .name {
-    width: 100px;
-    height: 100px;
+    width: 200px;
+    height: 50px;
     padding: 20px;
+    border: 50px;
     background-color: #4aaaa5;
     position: relative;
     margin: 0px;
     margin-left: 250px;
     color: white;
 }
+ul {
+    width: 250px;
+    background: red;
+    padding: 0;
+    margin: 0;
+    overflow: auto;
+}
 
-.linkorg {
-    display: inline;
+li {
+    width: 20%;
+    float: left;
+    background: green;
+    margin: 2.5%;
+}
+
+.linkorg{
+    display: inline-block;    
+    background-color: brown;
     float: right;
+    height: 50px;
+    width: 50px;
 }
 .body{
     margin: 0px;
