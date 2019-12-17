@@ -1,11 +1,24 @@
+.bgcolor{
+    background-color: grey;
+    width: auto; 
+    border-bottom: black solid 2px;   
+}
+
 .name {
-    width: 120px;
+    width: 100px;
     height: 100px;
     padding: 20px;
-    border: medium groove;
     background-color: #4aaaa5;
     position: relative;
     margin: 0px;
     margin-left: 250px;
     color: white;
+}
+
+.linkorg {
+    display: inline;
+    float: right;
+}
+.body{
+    margin: 0px;
 }
