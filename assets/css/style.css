@@ -65,6 +65,12 @@ img{
     border-top: 8px solid #4aaaa5;
     background-color: gray;
     height: 60px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+
 }
 
 .list{
