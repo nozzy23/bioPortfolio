@@ -1,9 +1,6 @@
-
-body{
-    background-image: url(assets/images/background.png);
-
+.body {
+    background-image: "url(assets/images/background.png);";
 }
-
 .bgcolor{
     width: auto; 
     border-bottom: black solid 2px;
